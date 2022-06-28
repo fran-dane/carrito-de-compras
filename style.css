@@ -749,6 +749,10 @@ footer .website-logo {
 
   /* carrito */
 
+  .text-center {
+    margin: 50px;
+  }
+
   .item {
     border: 1px solid #fff;
     padding: 10px;
