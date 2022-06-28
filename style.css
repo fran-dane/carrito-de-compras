@@ -103,7 +103,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/a2.jpg");
+    ,url("media/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -825,3 +825,12 @@ footer .website-logo {
     min-height: 96px;
   }
   
+
+  .total-cart {
+    margin-bottom: 0;
+    margin: 10px;
+  }
+
+  .comprarButton {
+    margin: 50px;
+  }
