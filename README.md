@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Proyecto Final basado en<a href="https://euphoriapre.com/" target="_blank">Euphoria</a>.</h4>
+<h4 align="center">Proyecto Final basado en <a href="https://euphoriapre.com/" target="_blank">Euphoria</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
