@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="//cdn.shopify.com/s/files/1/0245/5116/1905/files/Euphoria_Favicon_32x32.png?v=1642802241" width="200"></a>
+  <a href="https://cdn.shopify.com/s/files/1/0245/5116/1905/files/Euphoria_Pre_2.0_2f34532d-eec7-4ca9-961f-a7001373853e.png?v=1664759850" width="200"></a>
   <br>
   Euphoria Supplements
   <br>
