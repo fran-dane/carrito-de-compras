@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="//cdn.shopify.com/s/files/1/0245/5116/1905/files/Euphoria_Favicon_32x32.png?v=1642802241" width="200"></a>
   <br>
   Markdownify
   <br>
