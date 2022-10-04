@@ -15,7 +15,7 @@
          alt="Gitter">
   </a>
 
-<h4 align="center">
+<h4 align="center">Funcionamiento del proyecto: </h4>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
