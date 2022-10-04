@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+    <img src="https://cdn.shopify.com/s/files/1/0245/5116/1905/files/Euphoria_Pre_2.0_2f34532d-eec7-4ca9-961f-a7001373853e.png?v=1664759850"
          alt="Gitter">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
