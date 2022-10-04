@@ -3,7 +3,7 @@
   <br>
   <a href="//cdn.shopify.com/s/files/1/0245/5116/1905/files/Euphoria_Favicon_32x32.png?v=1642802241" width="200"></a>
   <br>
-  Markdownify
+  Euphoria Supplements
   <br>
 </h1>
 
